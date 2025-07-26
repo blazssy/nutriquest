@@ -1,4 +1,4 @@
-Absolutely! Here's a clean, professional, and informative **README.md** template for your **NutriQuest** project. It highlights your tech stack, features, setup instructions, and future roadmap.
+
 
 ---
 
